@@ -1,0 +1,5 @@
+# PropertyGetter
+
+PropertyGetter monad.
+
+WIP.
